@@ -1,9 +1,13 @@
 # Novozymes Enzyme Stability Prediction: Kaggle
 ## Ideas
 FastFold: https://github.com/hpcaitech/FastFold. https://arxiv.org/pdf/2203.00854.pdf
+- a faster version of AlphaFold: https://www.nature.com/articles/s41586-021-03819-2
 
 Evoformer. Read https://arxiv.org/pdf/2206.06583.pdf
 
+ESM: https://github.com/facebookresearch/esm
+
+Data from, among others, Meltome: https://www.nature.com/articles/s41592-020-0801-4
 
 ## Dataset Description
 
